@@ -1,8 +1,8 @@
 ---
 role: Professor of Artificial Intelligence
 avatar_filename: dsc01629.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include brain-computer interfaces (BCIs),
+  connectomics, computational neuroscience, and artificial intelligence.
 interests:
   - Brain-Computer Interfaces
   - Connectomics
@@ -16,19 +16,15 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/lianne-sanchez-rodriguez/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: "Biosense Webster, Inc. "
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Applied Biomedical Engineering
+      institution: Johns Hopkins University
+      year: 2022
+    - course: "BS in Computer Engineering "
+      institution: University of Puerto Rico at Mayagüez
+      year: 2020
 superuser: true
 highlight_name: true
 title: Lianne Sánchez Rodríguez
