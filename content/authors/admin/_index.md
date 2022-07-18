@@ -4,25 +4,17 @@ avatar_filename: dsc01629.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Brain-Computer Interfaces
+  - Connectomics
+  - Computational Neuroscience
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/liannesr
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/lianne-sanchez-rodriguez/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
